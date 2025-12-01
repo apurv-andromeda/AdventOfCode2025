@@ -1,0 +1,11 @@
+#!/usr/bin/zsh
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make
+
+./AdventOfCode2025

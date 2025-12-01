@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/galactus/Documents/AdventOfCode2025/build",
+  "command": "/usr/bin/c++  -I/home/galactus/Documents/AdventOfCode2025/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/AdventOfCode2025.dir/src/day1.cpp.o -c /home/galactus/Documents/AdventOfCode2025/src/day1.cpp",
+  "file": "/home/galactus/Documents/AdventOfCode2025/src/day1.cpp",
+  "output": "CMakeFiles/AdventOfCode2025.dir/src/day1.cpp.o"
+},
+{
+  "directory": "/home/galactus/Documents/AdventOfCode2025/build",
+  "command": "/usr/bin/c++  -I/home/galactus/Documents/AdventOfCode2025/include -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles/AdventOfCode2025.dir/src/main.cpp.o -c /home/galactus/Documents/AdventOfCode2025/src/main.cpp",
+  "file": "/home/galactus/Documents/AdventOfCode2025/src/main.cpp",
+  "output": "CMakeFiles/AdventOfCode2025.dir/src/main.cpp.o"
+}
+]
