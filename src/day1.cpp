@@ -1,9 +1,7 @@
 #include "day1.hpp"
 #include <iostream>
 
-Day1::Day1(){
-    counter = 50;
-    zero_cross = 0;
+Day1::Day1() : zero_cross(0), counter(50){
 }
 
 void Day1::solution(const std::string& line) {
