@@ -8,4 +8,5 @@ cmake ..
 
 make
 
-./AdventOfCode2025
+cd ..
+./build/AdventOfCode2025
