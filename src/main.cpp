@@ -10,5 +10,6 @@ int main() {
     while (std::getline(file, line)) {
         obj.solution(line);
     }
+    std::cout << "Solution :" << obj.zero_cross << std::endl;
     return 0;
 }
